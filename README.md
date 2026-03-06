@@ -8,6 +8,7 @@ Descargamos la imagen de SQL Server y confirmamos que ese proceso fue exitoso.
 
 ## 2. Corremos el container con los datos disonibles y observamos que la base de datos AdventureWorks ya se encuentra en dicho contenedor.
 ![alt text](images/image-2.png)
+![alt text](image.png)
 
 ## 3. Generación de data y schema apartir del backup.
 
@@ -27,3 +28,4 @@ Este proceso lo realicé con SQL Server Management que da la opción de gener
 ![alt text](images/image-14.png)
 
 ![alt text](images/image-15.png)
+![alt text](images/image-17.png)
